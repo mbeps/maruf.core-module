@@ -3,6 +3,7 @@
     "displayName": "Core Extension Pack",
     "description": "Collections of the most important extensions with no languages",
     "version": "0.0.1",
+	"publisher": "Maruf",
     "engines": {
         "vscode": "^1.67.0"
     },
@@ -24,9 +25,7 @@
 		"naumovs.color-highlight",
 		"mikestead.dotenv",
 		"markis.code-coverage",
-		"DotJoshJohnson.xml",
 		"selcuk-usta.code-complexity-report-generator",
-		"redhat.vscode-xml",
 		"VisualStudioExptTeam.vscodeintellicode",
 		"christian-kohler.path-intellisense"
     ]
