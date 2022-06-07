@@ -27,6 +27,8 @@
 		"DotJoshJohnson.xml",
 		"appland.appmap",
 		"selcuk-usta.code-complexity-report-generator",
-		"redhat.vscode-xml" 
+		"redhat.vscode-xml",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"christian-kohler.path-intellisense"
     ]
 }
