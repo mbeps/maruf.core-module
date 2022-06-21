@@ -19,13 +19,9 @@
 		"axetroy.vscode-package-manager",
 		"aaron-bond.better-comments",
 		"cweijan.vscode-database-client2",
-		"esbenp.prettier-vscode",
 		"formulahendry.code-runner",
-		"hediet.debug-visualizer",
 		"naumovs.color-highlight",
 		"mikestead.dotenv",
-		"markis.code-coverage",
-		"selcuk-usta.code-complexity-report-generator",
 		"VisualStudioExptTeam.vscodeintellicode",
 		"christian-kohler.path-intellisense"
     ]
