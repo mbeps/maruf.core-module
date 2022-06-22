@@ -1,6 +1,6 @@
 {
-    "name": "core-extension-pack",
-    "displayName": "Core Extension Pack",
+    "name": "core-module",
+    "displayName": "Core module",
     "description": "Collections of the most important extensions with no languages",
     "version": "0.0.1",
 	"publisher": "Maruf",
