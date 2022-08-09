@@ -23,6 +23,7 @@
 		"naumovs.color-highlight",
 		"mikestead.dotenv",
 		"VisualStudioExptTeam.vscodeintellicode",
-		"christian-kohler.path-intellisense"
+		"christian-kohler.path-intellisense",
+        "Maruf.tasks-module"
     ]
 }
