@@ -24,6 +24,6 @@
 		"mikestead.dotenv",
 		"VisualStudioExptTeam.vscodeintellicode",
 		"christian-kohler.path-intellisense",
-        "Maruf.tasks-module"
+        "spmeesseman.vscode-taskexplorer"
     ]
 }
