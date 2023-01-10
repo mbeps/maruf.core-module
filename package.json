@@ -4,6 +4,7 @@
     "description": "Collections of the most important extensions with no languages",
     "version": "0.0.1",
 	"publisher": "Maruf",
+    "repository": "https://github.com/mbeps/maruf.core-module",
     "engines": {
         "vscode": "^1.67.0"
     },
