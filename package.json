@@ -17,12 +17,12 @@
 		"anweber.statusbar-commands",
 		"yzhang.markdown-all-in-one",
 		"streetsidesoftware.code-spell-checker",
-		"axetroy.vscode-package-manager",
 		"aaron-bond.better-comments",
 		"naumovs.color-highlight",
 		"mikestead.dotenv",
 		"VisualStudioExptTeam.vscodeintellicode",
 		"christian-kohler.path-intellisense",
-        "spmeesseman.vscode-taskexplorer"
+        "spmeesseman.vscode-taskexplorer",
+        "Gruntfuggly.todo-tree"
     ]
 }
