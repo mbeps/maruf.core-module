@@ -2,7 +2,7 @@
     "name": "core-module",
     "displayName": "Core Module",
     "description": "Collections of the most important extensions with no languages",
-    "version": "0.0.1",
+    "version": "0.0.2",
 	"publisher": "Maruf",
     "repository": "https://github.com/mbeps/maruf.core-module",
     "engines": {
