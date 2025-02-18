@@ -2,8 +2,8 @@
     "name": "core-module",
     "displayName": "Core Module",
     "description": "Collections of the most important extensions with no languages",
-    "version": "0.0.2",
-	"publisher": "Maruf",
+    "version": "0.0.3",
+    "publisher": "Maruf",
     "repository": "https://github.com/mbeps/maruf.core-module",
     "engines": {
         "vscode": "^1.67.0"
@@ -11,18 +11,19 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "alefragnani.Bookmarks",
-		"alefragnani.project-manager",
-		"anweber.statusbar-commands",
-		"yzhang.markdown-all-in-one",
-		"streetsidesoftware.code-spell-checker",
-		"aaron-bond.better-comments",
-		"naumovs.color-highlight",
-		"mikestead.dotenv",
-		"VisualStudioExptTeam.vscodeintellicode",
-		"christian-kohler.path-intellisense",
+        "alefragnani.project-manager",
+        "anweber.statusbar-commands",
+        "yzhang.markdown-all-in-one",
+        "streetsidesoftware.code-spell-checker",
+        "aaron-bond.better-comments",
+        "naumovs.color-highlight",
+        "mikestead.dotenv",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "christian-kohler.path-intellisense",
         "spmeesseman.vscode-taskexplorer",
-        "Gruntfuggly.todo-tree"
+        "redhat.vscode-yaml",
+        "tamasfe.even-better-toml"
     ]
 }
